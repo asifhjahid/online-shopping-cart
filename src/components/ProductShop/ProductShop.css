@@ -1,0 +1,12 @@
+.shopData{
+    display: flex;
+    margin-top: 20px;
+}
+.product_container{
+    width: 70%;
+    
+    border-right: 1px solid lightgray;
+}
+.enroll_container{
+    width: 30%;
+}

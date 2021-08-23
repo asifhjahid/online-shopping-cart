@@ -1,0 +1,16 @@
+p{
+    text-align: left;
+    margin-left: 36px;
+    font-size: 1.3rem;
+}
+.orderStyle{
+    text-align: left;
+    color:rgb(82, 129, 218);
+    margin-left: 30px;
+    
+}
+.oderItem{
+    font-size: 2rem;
+    text-align: left;
+    margin-left: 30px;
+}

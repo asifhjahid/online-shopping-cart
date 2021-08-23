@@ -1,0 +1,32 @@
+.allItems{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    text-align: left;
+    margin-left: 5px;
+}
+.allItems img{
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+}
+.items{
+    margin-top: 6px;
+    margin-left: 12px;
+}
+.items h1{
+    font-size: 1.6rem;
+    
+}
+.items h1 span{
+    color:tomato;
+    font-weight: bold;
+} 
+.items h2{
+    font-size: 1.3rem;
+      
+}
+
+.items Button {
+   margin-top: 20px;
+   margin-right: 50px;
+}  
